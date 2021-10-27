@@ -1,0 +1,6 @@
+project_id       = ""
+hostname         = "storage-raid6"
+plan             = "s3.xlarge.x86"
+facilities       = ["am6"]
+operating_system = "ubuntu_20_10"
+billing_cycle    = "hourly"
